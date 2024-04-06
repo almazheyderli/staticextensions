@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|c:\\users\\user\\desktop\\c#oop\\static\\extensions\\extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|solutionrelative:extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|c:\\users\\user\\desktop\\c#oop\\static\\extensions\\extensions\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|solutionrelative:extensions\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|c:\\users\\user\\desktop\\c#oop\\static\\extensions\\extensions\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|solutionrelative:extensions\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|c:\\users\\user\\desktop\\c#oop\\static\\extensions\\extensions\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF405C8-84B5-4F55-86EC-642A0CD2BB05}|Extensions\\Extensions.csproj|solutionrelative:extensions\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Store.cs",
+              "RelativeDocumentMoniker": "Extensions\\Store.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Store.cs",
+              "RelativeToolTip": "Extensions\\Store.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwGgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:09:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Product.cs",
+              "RelativeDocumentMoniker": "Extensions\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Product.cs",
+              "RelativeToolTip": "Extensions\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:01:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Person.cs",
+              "RelativeDocumentMoniker": "Extensions\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Person.cs",
+              "RelativeToolTip": "Extensions\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:51:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Program.cs",
+              "RelativeDocumentMoniker": "Extensions\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c#OOP\\static\\Extensions\\Extensions\\Program.cs",
+              "RelativeToolTip": "Extensions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:50:44.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

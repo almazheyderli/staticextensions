@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\bin\Debug\net8.0\Extensions.exe
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\bin\Debug\net8.0\Extensions.deps.json
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\bin\Debug\net8.0\Extensions.runtimeconfig.json
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\bin\Debug\net8.0\Extensions.dll
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\bin\Debug\net8.0\Extensions.pdb
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfo.cs
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.sourcelink.json
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.dll
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\refint\Extensions.dll
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.pdb
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\Extensions.genruntimeconfig.cache
+C:\Users\User\Desktop\c#OOP\static\Extensions\Extensions\obj\Debug\net8.0\ref\Extensions.dll
